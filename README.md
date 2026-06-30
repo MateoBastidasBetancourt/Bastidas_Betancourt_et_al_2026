@@ -32,9 +32,9 @@ The repository includes workflows for comparative transcriptomic and epigenomic 
 │   ├── 02_TE_annotation.R
 │   └── 03_Plotting.R
 ├── Metadata/
-│   ├── pheno_human_npcs.csv
-│   ├── pheno_human_rhesus_npcs.csv
-│   └── pheno_rhesus_electroporations.csv
+│   ├── pheno_human_npcs.tab
+│   ├── pheno_human_rhesus_npcs.tab
+│   └── pheno_rhesus_electroporations.tab
 │
 ├── renv.lock
 └── README.md
