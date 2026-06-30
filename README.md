@@ -75,6 +75,7 @@ Estimated installation time: 15 minutes on a standard desktop computer with inte
 
 
 ## Instructions for Use
+Use raw reads and/or processed data stored in Zenodo
 - Bulk RNA-seq analysis
 
 Use raw data as indicated in Table S1.
