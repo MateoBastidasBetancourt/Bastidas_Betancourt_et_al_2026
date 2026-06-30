@@ -7,6 +7,7 @@ The repository includes workflows for comparative transcriptomic and epigenomic 
 
 ## Repository structure
 ```text
+scripts
 ├── preprocessing/
 │   ├── CnR-seq/
 │   │   ├── 01_Slurm_qc_trim_mapping.sh
