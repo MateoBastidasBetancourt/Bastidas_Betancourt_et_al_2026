@@ -22,7 +22,7 @@ The repository includes workflows for comparative transcriptomic and epigenomic 
 │   ├── 01_H3K27Ac_H3K4Me2_human_rhesus.R
 │   └── 02_H3K27Ac_bed_genome_tracks.R
 ├── sc-RNAseq reanalysis/
-│   ├── 01_Plots_human_organoids_Tynianskia.R
+│   ├── 01_Pseudobulk_Plots_human_organoids_Tynianskia.R
 ├── bulk-RNAseq/
 │   ├── 01_Human_npc_neu.R
 │   ├── 02_Human_rhesus_npc_neu.R
