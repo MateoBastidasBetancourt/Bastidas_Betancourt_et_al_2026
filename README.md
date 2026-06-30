@@ -97,7 +97,7 @@ Use processed data from Tynianskaia et al., 2026
 
 Run plotting scripts contained in ./sc-RNAseq reanalysis/01_Plots_human_organoids_Tynianskia.R
 
-- CUNT&RUN-seq analysis
+- CUT&RUN-seq analysis
 
 Run preprocessing scripts in ./preprocessing/CnR-seq/*
 
