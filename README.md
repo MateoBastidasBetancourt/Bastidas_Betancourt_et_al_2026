@@ -77,7 +77,7 @@ Estimated installation time: 15 minutes on a standard desktop computer with inte
 ## Instructions for Use
 - Bulk RNA-seq analysis
 
-Use raw data as indicated in Supplementary Table XXX metadata.
+Use raw data as indicated in Table S1.
 
 Run preprocessing scripts in ./preprocessing/Bulk-RNAseq/*
 
@@ -85,7 +85,7 @@ Run R scripts in ./Bulk-RNAseq/ in numerical order
 
 - ChIP-seq reanalysis
 
-Use processed data as indicated in Supplementary Table XXX metadata.
+Use processed data as indicated in Table S1.
 
 Run scripts contained in ./ChIP-seq reanalysis/*
 
